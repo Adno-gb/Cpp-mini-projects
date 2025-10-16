@@ -1,8 +1,8 @@
 # 🧩 C++ Mini Projects
 
 Hi 👋  
-This repository contains a collection of **small C++ projects and practice exercises** that I’m building while learning **C++ programming**.  
-The goal is to improve my problem-solving skills, learn algorithms, and build simple console-based applications.
+This repository contains a collection of **small C++ projects and practice exercises** that I’m building while learning **C++ programming**  
+The goal is to improve my problem-solving skills, learn algorithms, and build simple console-based applications
 
 ---
 
@@ -10,9 +10,9 @@ The goal is to improve my problem-solving skills, learn algorithms, and build si
 
 | Project | Description |
 |----------|--------------|
-| 🪨✂️📄 **Rock Paper Scissors** | A simple rock-paper-scissors game between the player and the computer. |
-| ➕➖ **Math Game** | A fun arithmetic quiz game that challenges your math skills. | And More Coming
-
+| 🪨✂️📄 **Rock Paper Scissors** | A simple rock-paper-scissors game between the player and the computer |
+| ➕➖ **Math Game** | A fun arithmetic quiz game that challenges your math skills |
+| 🎮🧩 **More** | Coming soon |
 ---
 
 ## ⚙️ How to Run
