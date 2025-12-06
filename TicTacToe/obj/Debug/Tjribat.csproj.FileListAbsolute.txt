@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Tjribat\bin\Debug\Tjribat.exe.config
+C:\Users\ASUS\source\repos\Tjribat\bin\Debug\Tjribat.exe
+C:\Users\ASUS\source\repos\Tjribat\bin\Debug\Tjribat.pdb
+C:\Users\ASUS\source\repos\Tjribat\obj\Debug\Tjribat.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Tjribat\obj\Debug\Tjribat.Form1.resources
+C:\Users\ASUS\source\repos\Tjribat\obj\Debug\Tjribat.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Tjribat\obj\Debug\Tjribat.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Tjribat\obj\Debug\Tjribat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Tjribat\obj\Debug\Tjribat.exe
+C:\Users\ASUS\source\repos\Tjribat\obj\Debug\Tjribat.pdb
+C:\Users\ASUS\source\repos\Tjribat\obj\Debug\Tjribat.exe.config
+C:\Users\ASUS\source\repos\Tjribat\obj\Debug\Tjribat.Form2.resources
+C:\Users\ASUS\source\repos\Tjribat\obj\Debug\Tjribat.Form3.resources
