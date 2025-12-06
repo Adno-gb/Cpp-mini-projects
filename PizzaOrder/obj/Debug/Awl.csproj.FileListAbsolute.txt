@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Awl\bin\Debug\Awl.exe.config
+C:\Users\ASUS\source\repos\Awl\bin\Debug\Awl.exe
+C:\Users\ASUS\source\repos\Awl\bin\Debug\Awl.pdb
+C:\Users\ASUS\source\repos\Awl\obj\Debug\Awl.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Awl\obj\Debug\Awl.Form1.resources
+C:\Users\ASUS\source\repos\Awl\obj\Debug\Awl.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Awl\obj\Debug\Awl.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Awl\obj\Debug\Awl.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Awl\obj\Debug\Awl.exe
+C:\Users\ASUS\source\repos\Awl\obj\Debug\Awl.pdb
+C:\Users\ASUS\source\repos\Awl\obj\Debug\Awl.exe.config
